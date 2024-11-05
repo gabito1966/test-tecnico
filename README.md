@@ -7,4 +7,5 @@
 ### En el segunda-opcion generé un algoritmo que resuelva el problema asumiendo que los recursos son un bien preciado, que el tiempo de ejecución si importa y que el tiempo de desarrollo no es importante
 
 ### Link de CodeSandbox https://codesandbox.io/p/live/60c8f86a-f1b4-411a-b649-6c592e5ccaab
+### Link de repositorio https://github.com/gabito1966/test-tecnico
 
